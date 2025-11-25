@@ -28,8 +28,4 @@
 
 <h4 align="center">Construyendo, aprendiendo y rompiendo cosas en el camino.</h4>
 
-###
 
-<img src="https://raw.githubusercontent.com/nzwr1/nzwr1/output/snake.svg" alt="Snake animation" />
-
-###
