@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nzwr/nzwr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nzwr1/nzwr1/output/snake.svg" alt="Snake animation" />
 
 ###
